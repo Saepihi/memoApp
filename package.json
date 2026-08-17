@@ -9,8 +9,13 @@
     "react-native": "0.86.2"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@types/react": "~19.2.2",
-    "typescript": "~6.0.3"
+    "eslint": "^8.57.1",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^17.11.0",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "^8.67.0"
   },
   "scripts": {
     "start": "expo start",
